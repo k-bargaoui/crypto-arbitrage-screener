@@ -1,0 +1,2 @@
+timestamp,symbol,spot_price,future_price,spread,profit,arbitrage_opportunity
+2025-05-09T14:25:10.293774,BTC,102870.8400,102874.7000,3.8600,3.8550,YES
