@@ -46,6 +46,7 @@ ETH Arbitrage detected: Buy SPOT at $1872.25, Sell FUTURE at $1873.31 | Profit: 
 CSV: arbitrage_eth.csv
 
 timestamp,symbol,spot_price,future_price,spread,profit,arbitrage_opportunity
+
 2025-05-09T12:03:45,ETH,1872.2500,1873.3100,1.0600,0.5550,YES
 
 📂 Project Structure
