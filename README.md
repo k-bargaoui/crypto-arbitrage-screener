@@ -59,4 +59,4 @@ timestamp,symbol,spot_price,future_price,spread,profit,arbitrage_opportunity
 MIT License — free for personal or commercial use. Attribution appreciated!
 
 Contact :
-🌐 LinkedIn 
+🌐 [LinkedIn ](https://www.linkedin.com/in/karim-bargaoui-34075680/)
