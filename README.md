@@ -57,9 +57,8 @@ timestamp,symbol,spot_price,future_price,spread,profit,arbitrage_opportunity
 📂 Project Structure
 - screener.ipynb           # Jupyter Notebook with full arbitrage logic
 - arbitrage_eth.csv        # Auto-generated logs (example)
-├── arbitrage_btc.csv
-├── ...
-└── README.md
+- arbitrage_btc.csv
+- README.md
 
 📜 License
 MIT License — free for personal or commercial use. Attribution appreciated!
