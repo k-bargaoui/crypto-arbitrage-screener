@@ -1,5 +1,5 @@
 # crypto-arbitrage-screener
-Crypto arbitrage screener built in a Jupyter notebook. This tool scans Binance spot vs futures markets for opportunities where you can profit from price discrepancies beyond a transaction cost threshold.
+Crypto arbitrage screener built in a Jupyter notebook. This tool scans Binance spot vs futures markets for opportunities coming from price discrepancies beyond a transaction cost threshold.
 
 🚀 Features
 📡 Live price feeds using Binance WebSocket API (via websocket-client)
@@ -27,18 +27,12 @@ The notebook provides:
 
 ⚙️ Requirements
 Install dependencies:
-
-bash
-Copier
-Modifier
 pip install websocket-client
 Standard libraries used: json, threading, csv, os, datetime, time.
 
 🧪 How to Use
 Open the screener.ipynb notebook in Jupyter Lab or Jupyter Notebook.
-
 Run all cells.
-
 Sit back and let the screener monitor your selected symbols.
 
 ⚙️ Customization
