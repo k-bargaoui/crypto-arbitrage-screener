@@ -55,8 +55,8 @@ timestamp,symbol,spot_price,future_price,spread,profit,arbitrage_opportunity
 2025-05-09T12:03:45,ETH,1872.2500,1873.3100,1.0600,0.5550,YES
 
 📂 Project Structure
-├── screener.ipynb           # Jupyter Notebook with full arbitrage logic
-├── arbitrage_eth.csv        # Auto-generated logs (example)
+- screener.ipynb           # Jupyter Notebook with full arbitrage logic
+- arbitrage_eth.csv        # Auto-generated logs (example)
 ├── arbitrage_btc.csv
 ├── ...
 └── README.md
